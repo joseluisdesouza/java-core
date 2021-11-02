@@ -2,15 +2,14 @@ package trilha.alura.logicadeprogramacaoalura;
 
 public class TudoSobreCursoAlura {
     public static void main(String[] args) {
-        int idade = 16;
+        int idade = 18;
         int quantidadePessoas = 3;
 
-        if (idade >= 18 || quantidadePessoas >= 2) {
+        if (idade >= 18 && quantidadePessoas >= 1) {
             System.out.println("seja bem vindo");
         } else {
             System.out.println("infelizmente não pode entrar");
         }
-
     }
 
     static class TestaEscopo {
