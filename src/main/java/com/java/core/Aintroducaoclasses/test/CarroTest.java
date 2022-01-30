@@ -4,24 +4,24 @@ import com.java.core.Aintroducaoclasses.dominio.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {
-        Carro carro = new Carro();
         Carro carro1 = new Carro();
+        Carro carro2 = new Carro();
 
-        carro.nome = "913gt3";
-        carro.modelo = "porche";
-        carro.ano = 2015;
+        carro2.nome = "913gt3";
+        carro2.modelo = "porche";
+        carro2.ano = 2015;
 
-        System.out.println("Nome: " + carro.nome + "\nmodelo: " +
-                carro.modelo + "\nano: " + carro.ano);
+        System.out.println("Nome: " + carro2.nome + "\nmodelo: " +
+                carro2.modelo + "\nano: " + carro2.ano);
 
         System.out.println("***********************");
 
-        carro1.nome = "Aventador";
-        carro1.modelo = "lamborghini";
-        carro1.ano = 2011;
+        carro2.nome = "Aventador";
+        carro2.modelo = "lamborghini";
+        carro2.ano = 2011;
 
-        System.out.println("Nome: " + carro1.nome + "\nmodelo: " +
-                carro1.modelo + "\nano: " + carro1.ano);
+        System.out.println("Nome: " + carro2.nome + "\nmodelo: " +
+                carro2.modelo + "\nano: " + carro2.ano);
 
     }
 }

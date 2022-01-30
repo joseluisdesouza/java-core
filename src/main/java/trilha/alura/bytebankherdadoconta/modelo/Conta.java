@@ -6,7 +6,7 @@ package trilha.alura.bytebankherdadoconta.modelo;
  *
  * @author josé l. souza
  */
-public abstract class Conta {
+public abstract class Conta implements Comparable<Conta>{
 
     protected double saldo;
     private int agencia;
@@ -37,7 +37,7 @@ public abstract class Conta {
      */
     public void saca(double valor) {
         if (this.saldo < valor) {
-         throw new SaldoUnsuficienteException("Saldo " + this.saldo + ", Valor " + valor);
+            throw new SaldoUnsuficienteException("Saldo " + this.saldo + ", Valor " + valor);
         }
         this.saldo -= valor;
         /**
@@ -54,8 +54,8 @@ public abstract class Conta {
      * @param destino
      */
     public void transfere(double valor, Conta destino) {
-        this.saca(valor) ;
-            destino.deposita(valor);
+        this.saca(valor);
+        destino.deposita(valor);
     }
 
     public double getSaldo() {
@@ -96,5 +96,31 @@ public abstract class Conta {
 
     public static int getTotal() {
         return Conta.total;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+
+        /**
+         * Como obj é generico e não tem os atributos descritos nessa classe como por exemplo
+         * agencia e numero, devemos fazer o cast e o que ele diz é que:
+         * O objeto que for recebido no parametro sera do tipo Conta para aquela validação dos ifs
+         */
+        Conta outra = (Conta) obj;
+
+        if (this.agencia != outra.agencia) {
+            return false;
+        }
+
+        if (this.numero != outra.numero) {
+            return false;
+        }
+
+        return true;
+    }
+
+    @Override
+    public int compareTo(Conta outra) {
+        return Double.compare(this.saldo, outra.saldo);
     }
 }

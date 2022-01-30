@@ -1,32 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(å¤ä›
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ø˜¨’ýÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¤¢Ä÷
-Q	java:S125"<This block of commented-out lines of code should be removed.(ÀÓ“Õ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ø˜¨’ýÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÙ„Ÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ø˜¨’ýÿÿÿÿ
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ
-S	java:S106&"9Replace this use of System.out or System.err by a logger.(¥¸—Æÿÿÿÿÿ
-S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-S	java:S106("9Replace this use of System.out or System.err by a logger.(ø˜¨’ýÿÿÿÿ
-S	java:S106,"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
-U	java:S106-"9Replace this use of System.out or System.err by a logger.(ªž•Ì8Í´ÄâÂ/
-`
-java:S1192"JDefine a constant instead of duplicating this literal " 
-Saldo: " 4 times.(øþÜØ
-}
-java:S1192"bDefine a constant instead of duplicating this literal "---------------------------------" 3 times.(Êô²ºúÿÿÿÿ
-e
-java:S1192"JDefine a constant instead of duplicating this literal "Titular: " 4 times.(ø˜¨’ýÿÿÿÿ
-b
-java:S1192"LDefine a constant instead of duplicating this literal " 
-Agencia: " 4 times.(øþÜØ
-f
-java:S1192"KDefine a constant instead of duplicating this literal " 
-Numero: " 4 times.(ø˜¨’ýÿÿÿÿ

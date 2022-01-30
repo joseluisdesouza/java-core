@@ -1,17 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
-V	java:S125	"<This block of commented-out lines of code should be removed.(ê×¦şÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿøúy
-O
-java:S2479":Remove the non-escaped \u0009 character from this literal.(Ÿøúy
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(ÙŒÉ
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(µµ »
-n
-java:S1602)"SRemove useless curly braces around statement and then remove useless return keyword(´¸©ùÿÿÿÿ
-S	java:S106,"9Replace this use of System.out or System.err by a logger.(åÜ«„øÿÿÿÿ
-z
-java:S1192"dDefine a constant instead of duplicating this literal "-----------------------------------" 3 times.(ÙŒÉ
-T
-java:S3958)"2Refactor the code so this stream pipeline is used.(´¸©ùÿÿÿÿ8óœ¬Å/
