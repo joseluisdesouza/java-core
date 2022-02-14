@@ -89,8 +89,15 @@ public class TesteOrdenacao {
          * java.lang.Comparable
          * Correto, para definir a ordem natural dos elementos!
          */
-        lista.sort(new TitularDaContaComparator());
+        //lista.sort(new TitularDaContaComparator());
         //lista.sort(new NumeroDaContaComparator());
+
+        lista.sort(new Comparator<Conta>() {
+            @Override
+            public int compare(Conta o1, Conta o2) {
+                return 0;
+            }
+        });
 
         System.out.println("-----------------------------------------");
 

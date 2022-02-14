@@ -1,12 +1,23 @@
 package com.java.core.Oexeption.exception;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 
-public class ExceptionTeste01 {
+public class ExceptionTeste02 {
+    /**
+     * Não posso colocar na assinatura desse main que ele é possivel de lançar
+     * a exception IOException pois ele é o ultimo da aplicação e não mandara para
+     * nenhum outro, o que devo fazer é um try/catch
+     * @param args
+     * @throws IOException
+     */
     public static void main(String[] args) throws IOException {
-        criarNovoArquivo();
+        try {
+            criarNovoArquivo();
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw e; //para relançar a exceção porem ele exige a assinatura
+        }
     }
 
     /**
