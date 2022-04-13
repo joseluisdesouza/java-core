@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äç²ºşÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(äç²ºşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Óöâúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§¹Ûûÿÿÿÿÿ
+n
+java:S1192"SDefine a constant instead of duplicating this literal "Categoria infantil" 4 times.(äç²ºşÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëìßüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ûş

@@ -14,16 +14,16 @@ public abstract class Funcionario {
     protected double salario;
     private int tipo = 0;
 
-    public Funcionario() {
+    protected Funcionario() {
     }
 
-    public Funcionario(String nome, String cpf, double salario) {
+    protected Funcionario(String nome, String cpf, double salario) {
         this.nome = nome;
         this.cpf = cpf;
         this.salario = salario;
     }
 
-    public Funcionario(String nome, String cpf, double salario, int tipo) {
+    protected Funcionario(String nome, String cpf, double salario, int tipo) {
         this(nome, cpf, salario);
         this.tipo = tipo;
     }
@@ -40,7 +40,7 @@ public abstract class Funcionario {
 
     public abstract double getBonificacao();
 
-    //metodo da forma antiga
+    //metodo da forma antiga, foi refatorado para que cada classe que herdar funcionario, implemenmte sua propria regra
 //    public double getBonificacao() {
 //        //salario vezes(*) 10%
 //        System.out.println("Chamando a bonificacao do Funcionario");

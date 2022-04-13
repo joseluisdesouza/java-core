@@ -3,7 +3,7 @@ package trilha.alura.bytebankherdado;
 public class Administrador extends Funcionario implements Autentica {
 
     /**
-     * Essa classe esta repetindo codigo exatamente iguais ao do gerente e isso esta se tornando um problema
+     * Essa classe esta repetindo codigo exatamente iguais ao do gerente e isso esta se tornando um problema,
      * neste capitulo sobre Interfaces vamos ter a solução
      */
 

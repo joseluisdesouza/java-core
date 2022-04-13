@@ -1,0 +1,54 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "charW".(¡‡éƒ
+V
+java:S1854";Remove this useless assignment to local variable "doubleW".(«Âøşÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "floatW".(·Ê±ôıÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "longW".(òÕşÂùÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "charP".(È÷½ıÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "doubleP".(ğí®İøÿÿÿÿ
+U
+java:S1854
+":Remove this useless assignment to local variable "floatP".(îÚÌûÿÿÿÿ
+O
+java:S1854	"9Remove this useless assignment to local variable "longP".(ÙÄ÷
+E
+java:S1481"*Remove this unused "byteP" local variable.(âïå­ÿÿÿÿÿ
+F
+java:S1481"+Remove this unused "shortP" local variable.(Ë„ûÌıÿÿÿÿ
+?
+java:S1481")Remove this unused "intP" local variable.(×ÑÙ©
+@
+java:S1481	"*Remove this unused "longP" local variable.(ÙÄ÷
+F
+java:S1481
+"+Remove this unused "floatP" local variable.(îÚÌûÿÿÿÿ
+G
+java:S1481",Remove this unused "doubleP" local variable.(ğí®İøÿÿÿÿ
+E
+java:S1481"*Remove this unused "charP" local variable.(È÷½ıÿÿÿÿ
+D
+java:S1481")Remove this unused "booP" local variable.(ù•ë üÿÿÿÿ
+@
+java:S1481"*Remove this unused "byteW" local variable.(³«Äì
+A
+java:S1481"+Remove this unused "shortW" local variable.(ôèè
+D
+java:S1481")Remove this unused "intW" local variable.(ŠÜÃšûÿÿÿÿ
+E
+java:S1481"*Remove this unused "longW" local variable.(òÕşÂùÿÿÿÿ
+F
+java:S1481"+Remove this unused "floatW" local variable.(·Ê±ôıÿÿÿÿ
+G
+java:S1481",Remove this unused "doubleW" local variable.(«Âøşÿÿÿÿ
+@
+java:S1481"*Remove this unused "charW" local variable.(¡‡éƒ
+D
+java:S1481")Remove this unused "booW" local variable.(²ª¼Æşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²îÅ¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¸ûÉøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“¢†Î

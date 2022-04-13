@@ -1,0 +1,29 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÕÇˆ¢
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(è‹—
+M	java:S106="9Replace this use of System.out or System.err by a logger.(ë£“f
+L	java:S106?"9Replace this use of System.out or System.err by a logger.(ñ¼
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(òÔÇÍ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ËÙ’“
+V	java:S125M"<This block of commented-out lines of code should be removed.(øŸ·İøÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(øèØüÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(‰âíİ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ıŸ¥¦ÿÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ï¶‰üÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(à‹×¾
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(íê­…
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(‰âíİ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ÁÛ“Ûüÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(§Åï
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Í ÊËÿÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(‰âíİ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(å©şºüÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(‘ºÄÖ
+W	java:S125–"<This block of commented-out lines of code should be removed.(é±Á×üÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(†Ş×¾
+`
+java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªè´¡şÿÿÿÿ
+€
+java:S1192f"jDefine a constant instead of duplicating this literal "-----------------------------------------" 3 times.(‰âíİ
+>
+java:S1604_"(Make this anonymous inner class a lambda(œÌ¿¸

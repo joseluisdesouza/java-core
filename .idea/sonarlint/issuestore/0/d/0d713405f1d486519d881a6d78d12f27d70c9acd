@@ -1,0 +1,28 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(åË™ª
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(’ÉÛX
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¡Åœıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Òóò£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÛØ°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÏÂşùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Òåùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÂ¿ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›šÌÛıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í‰¿è
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íÍò¥
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ûÙô’
+
+java:S1192"uDefine a constant instead of duplicating this literal "----------------------------------------------------" 3 times.(ÆÇâÈıÿÿÿÿ
+€
+java:S1192	"jDefine a constant instead of duplicating this literal "Dentro do espaÃ§o de memoria 0 do array: " 4 times.(åË™ª
+…
+java:S1192"jDefine a constant instead of duplicating this literal "Dentro do espaÃ§o de memoria 2 do array: " 4 times.(†¡Åœıÿÿÿÿ
+
+java:S1192
+"jDefine a constant instead of duplicating this literal "Dentro do espaÃ§o de memoria 1 do array: " 4 times.(’ÉÛX
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àÎÛşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ûş

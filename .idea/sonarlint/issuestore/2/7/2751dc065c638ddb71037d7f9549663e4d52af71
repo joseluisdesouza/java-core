@@ -1,0 +1,13 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í„©Ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í„©Ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ò˜ªÞ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ø­Šªüÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(„Ê†«üÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ÿÀÞ³ýÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Ò˜ªÞ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ò˜ªÞ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(Ýü‰í
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(í„©Ù
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Aula: " 3 times.(Ò˜ªÞ

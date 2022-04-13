@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼’Ü“üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(„«²ñùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¼’Ü“üÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Êæ·íûÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(ÞÏ£¢ùÿÿÿÿ
+p
+java:S1192"ZDefine a constant instead of duplicating this literal "Trabalhando com ArrayList" 3 times.(²Ù¯›

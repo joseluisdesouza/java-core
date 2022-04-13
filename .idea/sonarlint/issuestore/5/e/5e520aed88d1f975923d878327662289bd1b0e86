@@ -1,0 +1,14 @@
+
+b
+java:S18542"LRemove this useless assignment to local variable "numeroDaContaComparator2".(¼ô¨Ğ
+c
+java:S18541"MRemove this useless assignment to local variable "titularDaContaComparator2".(™õµ
+T
+java:S14811">Remove this unused "titularDaContaComparator2" local variable.(™õµ
+S
+java:S14812"=Remove this unused "numeroDaContaComparator2" local variable.(¼ô¨Ğ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ïÑØ…
+M
+java:S1128	"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+>
+java:S16046"(Make this anonymous inner class a lambda(œÌ¿¸

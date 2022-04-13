@@ -1,0 +1,23 @@
+
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ùÄ²
+P
+java:S1854":Remove this useless assignment to local variable "lista3".(ùÄ²
+U
+java:S1854":Remove this useless assignment to local variable "lista2".(‚»¾ùÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "lista1".(™Æá«
+Q	java:S125"<This block of commented-out lines of code should be removed.(‚‚‘õ
+A
+java:S1481"+Remove this unused "lista1" local variable.(™Æá«
+F
+java:S1481"+Remove this unused "lista2" local variable.(‚»¾ùÿÿÿÿ
+A
+java:S1481"+Remove this unused "lista3" local variable.(ùÄ²
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(²”Áã
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ôÑÁ>
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(İ“¸´
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(áÏ£‰
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Êà’Ü
+K
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš

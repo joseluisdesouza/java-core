@@ -1,0 +1,9 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "carro1".(ì‘ï„
+A
+java:S1481"+Remove this unused "carro1" local variable.(ì‘ï„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦……µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þ‘›ïøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦……µ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÛ…þüÿÿÿÿ

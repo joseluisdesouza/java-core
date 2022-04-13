@@ -1,0 +1,11 @@
+
+f
+java:S1854"KRemove this useless assignment to local variable "dRefComClasseMÃ£eNumber".(‡ôú°ûÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒÍÿÿÿÿÿ
+W
+java:S1481"<Remove this unused "dRefComClasseMÃ£eNumber" local variable.(‡ôú°ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÍúÑğ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÄø´ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÎÑúùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ôú°ûÿÿÿÿ
