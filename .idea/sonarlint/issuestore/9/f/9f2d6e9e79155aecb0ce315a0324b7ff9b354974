@@ -1,6 +1,0 @@
-
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(€®ûÇüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Åüÿÿÿÿ
-W
-java:S4973	"<Strings and Boxed types should be compared using "equals()".(€®ûÇüÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÏ½«şÿÿÿÿ

@@ -7,7 +7,7 @@ public interface DataLoader {
     /**
      * Uma interface pode ter atributos porem devem ser constantes
      */
-    public static final int MAX_DATA_SIZE = 10;
+    int MAX_DATA_SIZE = 10;
 
     /**
      * interfaces por padrão tem todos os metodos public abstract
@@ -33,7 +33,7 @@ public interface DataLoader {
     /**
      * Podemos tambem ter metodos estaticos
      */
-    public static void retrieveMaxDataSize() {
+    static void retrieveMaxDataSize() {
         System.out.println("Dentro do retrieveMaxDataSize na interface");
     }
 }
