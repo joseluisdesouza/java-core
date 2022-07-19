@@ -9,5 +9,8 @@ public class StringTest {
         System.out.println(name == name2);
         //e para comparar o valor usamos o equals
         System.out.println(name.equals(name2));
+        String nome3 = new String("Valentina");
+
+        System.out.println(name2 == nome3.intern());
     }
 }

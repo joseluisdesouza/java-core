@@ -1,0 +1,6 @@
+
+7
+java:S1116"Remove this empty statement.(Ý„ãàûÿÿÿÿ
+K
+java:S1751"6Remove this "return" statement or make it conditional.(îØ”>
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚å´æøÿÿÿÿ
