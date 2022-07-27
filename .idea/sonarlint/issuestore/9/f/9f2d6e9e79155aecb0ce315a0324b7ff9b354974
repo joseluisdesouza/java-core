@@ -1,0 +1,10 @@
+
+_
+java:S1192"JDefine a constant instead of duplicating this literal "Valentina" 3 times.(ãêı:
+W
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(€®ûÇüÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Æµ¥Óşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÏ½«şÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(˜ÕÍ’

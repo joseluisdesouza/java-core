@@ -1,4 +1,4 @@
-package com.java.core.Rdatas;
+package com.java.core.Sformatacao;
 
 import java.text.DateFormat;
 import java.util.Arrays;
