@@ -6,12 +6,15 @@ import java.time.temporal.ChronoField;
 import java.util.Calendar;
 import java.util.Date;
 
+//introduzida na versao 8 do java, classe imutavel por isso não podemos dar um new
 public class LocalDateTest {
     public static void main(String[] args) {
         System.out.println(new Date());
         System.out.println(Calendar.getInstance());
         System.out.println(Month.JANUARY.getValue());
         LocalDate localDate = LocalDate.of(2022, Month.JULY, 27);
+        LocalDate agora = LocalDate.now();
+        System.out.println(agora);
         System.out.println(localDate.getYear());
         System.out.println(localDate.getMonth());
         System.out.println(localDate.getMonthValue());
