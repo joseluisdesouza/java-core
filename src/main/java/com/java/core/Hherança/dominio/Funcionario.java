@@ -1,9 +1,9 @@
 package com.java.core.Hherança.dominio;
 
-public class Funcionario  extends Pessoa{
+public class Funcionario extends Pessoa {
     /**
      * Funcionario herdou de Pessoa nome, cpf e endereco, assim tendo um forte acoplamento
-     *
+     * <p>
      * Herança é um, Associação tem um!
      */
 

@@ -3,11 +3,10 @@ package com.java.core.Kenum.dominio;
 public class Cliente {
     /**
      * OBS: Podemos criar uma classe enum dentro desta classe ex:
-     *
+     * <p>
      * public enum TipoPagamento {
-     *     DEBITO, CREDITO
+     * DEBITO, CREDITO
      * }
-     *
      */
     private String nome;
     //private String tipo;
@@ -24,19 +23,18 @@ public class Cliente {
      */
 
     //public Cliente(String nome, String tipo) {
-        //if (!tipo.equals(PESSOA_FISICA) && !tipo.equals(PESSOA_JURIDICA)) {
-        //    return;
-        //}
-        //this.nome = nome;
-        //this.tipo = tipo;
+    //if (!tipo.equals(PESSOA_FISICA) && !tipo.equals(PESSOA_JURIDICA)) {
+    //    return;
+    //}
+    //this.nome = nome;
+    //this.tipo = tipo;
 
 
     /**
-         * 2 validação no construtor porem isso é forçar a criação de um cliente PF ou PJ
-         * a solução real para esse problema é o ENUM
-         */
+     * 2 validação no construtor porem isso é forçar a criação de um cliente PF ou PJ
+     * a solução real para esse problema é o ENUM
+     */
     //}
-
     public Cliente(String nome, TipoCliente tipoCliente) {
         this.nome = nome;
         this.tipoCliente = tipoCliente;

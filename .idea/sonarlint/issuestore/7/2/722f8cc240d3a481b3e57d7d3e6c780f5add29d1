@@ -1,0 +1,8 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Abanar" 3 times.(‘şß‘ùÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(âˆ¯à
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(âˆ¯à
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›øâ›şÿÿÿÿ

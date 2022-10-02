@@ -3,7 +3,7 @@ package com.java.core.Lclassesabstratas.dominio;
 /**
  * classes abstratas não podem ser instanciadas
  */
-public abstract class Funcionario extends Pessoa{
+public abstract class Funcionario extends Pessoa {
     protected String nome;
     protected double salario;
 
@@ -14,7 +14,7 @@ public abstract class Funcionario extends Pessoa{
 
     /**
      * cada classe prove de sua regra de bonus
-     * metodos abstratos só existem dentro de classes abstratas
+     * metodos abstratos só existem dentro de classes abstratas e enums
      */
     public abstract void calculaBonus();
 
@@ -34,12 +34,12 @@ public abstract class Funcionario extends Pessoa{
      * todos as classes filhas que forem usar dele sem fazer a sobrescrita
      * o valor a ser calculado sera igual para todos, o certo é sobrescrever ele e que cada
      * classe filha implemente sua propria regra.
-     *
+     * <p>
      * Mas se todas as classes forem sobrescreve-lo porque temos esse calculo aqui na linha 30?
-     * dessa forma o metodo acima esta certo, sendo ele abstrato!
+     * dessa forma o metodo acima esta certo linha 19, sendo ele abstrato!
      */
     public void calculaBonusErradoNesseContexto() {
-        this.salario =  this.salario + this.salario * 0.1;
+        this.salario = this.salario + this.salario * 0.1;
     }
 
     public String getNome() {

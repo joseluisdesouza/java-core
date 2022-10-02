@@ -5,8 +5,8 @@ public class Endereco {
     private String bairro;
 
     /**
-     * Endereco não tera varias pessoas, fazendo o uso de um array por exemplo, pois imagine se quisessemos usar essa classe em outras classes, é inviavel
-     * @return
+     * Endereco não tera varias pessoas, fazendo o uso de um array por exemplo, pois imagine se quisessemos usar essa classe em outras classes,
+     * é inviavel.
      */
 
     public String getRua() {
